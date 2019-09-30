@@ -1,0 +1,28 @@
+<!--  火箭顶部效果 -->
+<script src="https://blog-static.cnblogs.com/files/weavepub/jquery-migrate-1.2.1.js"></script>
+<div id="scrollTop" style="display:none;">
+      <div class="level-2"></div>
+      <div class="level-3"></div>
+</div>
+<script src="https://blog-static.cnblogs.com/files/weavepub/scroll2top.js"></script>
+<script type="text/javascript">
+    UI.global_search();
+    var uvOptions = {};
+    // !important
+    (function() {
+        initScrollTop();
+    })();
+</script>
+
+
+<!--  目录 -->
+<script src="https://blog-static.cnblogs.com/files/weavepub/bootstrap.min.js"></script>
+
+
+<!-- 设置地址栏图标 -->
+<script type="text/javascript" language="javascript">
+　　var linkObject = document.createElement('link');
+　　linkObject.rel = "shortcut icon";
+　　linkObject.href = "https://files-cdn.cnblogs.com/files/weavepub/TitleImg.ico";
+　　document.getElementsByTagName("head")[0].appendChild(linkObject);
+</script>
