@@ -1,0 +1,114 @@
+<!--  关闭打赏开始
+<script>
+//打赏功能
+    window.tctipConfig = {
+      staticPrefix: "http://static.tctip.com",
+      buttonImageId: 7,
+      buttonTip: "dashang",
+      list:{
+        alipay: {qrimg: "https://files-cdn.cnblogs.com/files/weavepub/Alipay.bmp"},
+        weixin:{qrimg: "https://files-cdn.cnblogs.com/files/weavepub/WeChat.bmp"},
+      }
+    };
+</script>
+<script src="https://blog-static.cnblogs.com/files/weavepub/tctip.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://blog-static.cnblogs.com/files/weavepub/myRewards.css">
+关闭打赏功能结束 -->
+
+<!--  目录 -->
+<link  type="text/css" rel="stylesheet" href="https://blog-static.cnblogs.com/files/weavepub/maodian.css">
+
+
+
+<!--  导航栏 -->
+<div id="test33">
+    <ul style="margin-left:0px;margin-right: 0px;" class="test11" >
+
+     <div class="dropdown" style="margin-left:20px">
+        <a href="https://www.cnblogs.com/weavepub"><span style="font-size: 20px;padding: 10px;color: #f8f8f8;display: table-cell;font-weight:bold;" >Weave Pub</span></a>
+      </div>
+
+      <div class="dropdown" style="margin-left:30px">
+        <a href="https://www.cnblogs.com/" class="dropbtn"  target="_blank"><span style="22px;opacity: 0.5;font-size: 15px">博客园</span></a>
+        <div class="dropdown-content">
+        </div>
+      </div> 
+
+      <div class="dropdown">
+        <a href="https://www.cnblogs.com/weavepub" class="dropbtn"><span style="font-size: 15px" >首页</span></a>
+      </div> 
+    
+       <div class="dropdown">
+       <a href="https://www.cnblogs.com/weavepub/category/1471579.html" class="dropbtn"><span style="font-size: 15px" >Kubernetes</a>
+       </div> 
+
+       <div class="dropdown">
+       <a href="https://www.cnblogs.com/weavepub/category/790035.html" class="dropbtn"><span style="font-size: 15px" >Python</a>
+       </div> 
+
+       <div class="dropdown">
+       <a href="https://www.cnblogs.com/weavepub/category/1473588.html" class="dropbtn"><span style="font-size: 15px" >Rancher</a>
+       </div> 
+
+       <div class="dropdown">
+       <a href="https://www.cnblogs.com/weavepub/p/11224813.html" class="dropbtn"><span style="font-size: 15px" >Command</a>
+       </div> 
+
+
+
+      <div class="dropdown">
+      <a class="dropbtn"><span style="font-size: 15px" >GitBook ≡</a>
+        <div class="dropdown-content" style="position: absolute; z-index: 10">
+            <a class="menu" href="https://open.weave.pub"  target="_Blank">openvpn</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+      <a class="dropbtn"><span style="font-size: 15px" >运维 ≡</a>
+        <div class="dropdown-content" style="position: absolute; z-index: 10">
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1484367.html" >Elasticsearch</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1473068.html" >MySQL</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1474739.html" >Monitor</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1482482.html" >DevOps</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1496005.html" >Hadoop</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1517098.html" >System</a>
+            <a class="menu" href="https://www.cnblogs.com/weavepub/category/1531191.html" >Jenkins</a>
+        </div>
+      </div> 
+
+
+      <div class="dropdown">
+      <a class="dropbtn"><span style="font-size: 15px" >外链 ≡</a>
+        <div class="dropdown-content" style="position: absolute; z-index: 10">
+            <a class="menu" href="https://github.com/521xueweihan/git-tips"  target="_Blank">Git 命令集合</a>
+            <a class="menu" href="https://github.com/jtyoui/Jtyoui"  target="_Blank">Python 集合</a>
+            <a class="menu" href="https://hellogithub.com/"  target="_Blank">Github 集合</a>
+            <a class="menu" href="https://www.qikqiak.com/tdd-book/"  target="_Blank">Python微服务实战</a>
+            <a class="menu" href="https://www.qikqiak.com/k8s-book/"  target="_Blank">从Docker到Kubernetes进阶</a>
+            <a class="menu" href="https://www.kancloud.cn/huyipow/kubernetes/531982"  target="_Blank">Kubernetes从入门到实战</a>
+            <a class="menu" href="http://www.servicemesher.com/istio-handbook/"  target="_Blank">Istio 服务网格进阶实战</a>
+            <a class="menu" href="https://jimmysong.io/kubernetes-handbook/"  target="_Blank">Kubernetes中文指南</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
+      <a class="dropbtn"><span style="font-size: 15px" >关于 ≡</a>
+        <div class="dropdown-content" style="position: absolute; z-index: 10">
+            <a class="menu" href="https://msg.cnblogs.com/send/weavepub"  target="_Blank">联系</a>
+            <a class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1"  target="_Blank">随笔</a>
+            <a class="menu" href="https://i.cnblogs.com/Configure.aspx"  target="_Blank">管理</a>
+            <a class="menu" href="https://app.gitbook.com/@weavepub/spaces"  target="_Blank">Gitbook</a>
+        </div>
+      </div>  
+
+<!-- 关闭导航栏github图标
+      <div class="dropdown" style="float:right;margin-right:20px">
+        <a href="https://github.com/weavepub"  target="_Blank">
+            <img src="https://files-cdn.cnblogs.com/files/weavepub/github_img.gif" height="45px">
+        </a>
+      </div>
+-->
+
+
+    </ul>
+</div>
